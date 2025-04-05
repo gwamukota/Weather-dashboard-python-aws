@@ -56,12 +56,12 @@ python src/weather_dashboard.py
 
 ## What I Learned
 
-1 AWS S3 bucket creation and management
-2 Environment variable management for secure API keys
-3 Python best practices for API integration
-4 Git workflow for project development
-5 Error handling in distributed systems
-6 Cloud resource management
+1. AWS S3 bucket creation and management
+2. Environment variable management for secure API keys
+3. Python best practices for API integration
+4. Git workflow for project development
+5. Error handling in distributed systems
+6. Cloud resource management
 
 ## Future Enhancements
 
