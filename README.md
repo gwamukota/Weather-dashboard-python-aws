@@ -1,6 +1,6 @@
 Building a weather data collection system using AWS S3 and OpenWeather API
 
-# Weather Data Collection System - DevOps Day 1 Challenge
+# Weather Data Collection System 
 
 ## Project Overview
 This project is a Weather Data Collection System that demonstrates core DevOps principles by combining:
@@ -29,7 +29,6 @@ This project is a Weather Data Collection System that demonstrates core DevOps p
   - requests
 
 ```markdown
-## Project Structure
 weather-dashboard/
   src/
     __init__.py
@@ -39,7 +38,7 @@ weather-dashboard/
   .env
   .gitignore
   requirements.txt
-
+```
 ## Setup Instructions
 
 * Install dependencies:
@@ -55,19 +54,19 @@ bashCopyaws configure
 * Run the application:
 python src/weather_dashboard.py
 
-What I Learned
+## What I Learned
 
-AWS S3 bucket creation and management
-Environment variable management for secure API keys
-Python best practices for API integration
-Git workflow for project development
-Error handling in distributed systems
-Cloud resource management
+1 AWS S3 bucket creation and management
+2 Environment variable management for secure API keys
+3 Python best practices for API integration
+4 Git workflow for project development
+5 Error handling in distributed systems
+6 Cloud resource management
 
-Future Enhancements
+## Future Enhancements
 
-Add weather forecasting
-Implement data visualization
-Add more cities
-Create automated testing
-Set up CI/CD pipeline
+- Add weather forecasting
+- Implement data visualization
+- Add more cities
+- Create automated testing
+- Set up CI/CD pipeline
